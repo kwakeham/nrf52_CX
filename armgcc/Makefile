@@ -2,7 +2,7 @@ PROJECT_NAME     := pwm_driver_pca10040
 TARGETS          := nrf52832_xxaa
 OUTPUT_DIRECTORY := _build
 
-SDK_ROOT := ../nrf5_SDK
+SDK_ROOT := ../nRF5_SDK
 PROJ_DIR := ..
 
 $(OUTPUT_DIRECTORY)/nrf52832_xxaa.out: \
@@ -35,10 +35,12 @@ SRC_FILES += \
   $(SDK_ROOT)/modules/nrfx/drivers/src/prs/nrfx_prs.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_uart.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_uarte.c \
+  $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_saadc.c \
   $(PROJ_DIR)/main.c \
   $(SDK_ROOT)/modules/nrfx/mdk/system_nrf52.c \
   $(SDK_ROOT)/modules/nrfx/drivers/src/nrfx_pwm.c \
   $(SDK_ROOT)/components/drivers_ext/drv8801/drv8801.c \
+  $(PROJ_DIR)/src/mpos.c \
 
 # Include folders common to all targets
 #  $(SDK_ROOT)/components/boards
@@ -72,6 +74,7 @@ INC_FOLDERS += \
   $(SDK_ROOT)/components/libraries/log/src \
   $(SDK_ROOT)/components/drivers_ext/drv8801 \
   $(PROJ_DIR)/boards \
+  $(PROJ_DIR)/include \
 
 # Libraries common to all targets
 LIB_FILES += \

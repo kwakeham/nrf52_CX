@@ -51,6 +51,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
+#include <inttypes.h>
 #include "app_uart.h"
 #include "app_error.h"
 #include "cx.h"
@@ -58,6 +59,7 @@
 #include "nrf.h"
 #include "nrf_delay.h"
 #include "drv8801.h"
+#include "mpos.h"
 
 #define MAX_TEST_DATA_BYTES     (15U)                /**< max number of test bytes to be used for tx and rx. */
 #define UART_TX_BUF_SIZE 256                         /**< UART TX buffer size. */
@@ -108,26 +110,43 @@ int main(void)
     drv8801_init();
     printf("initialized the drv8801, sending sequence\r\n");
     drv8801_test();
-    printf("wait5\r\n");
-    nrf_delay_ms(5000);
-    printf("test2\r\n");
-    drv8801_test2();
-    printf("done\r\n");
-    nrf_delay_ms(8000);
-    printf("Drivetest!!!\r\n");
-    drv8801_drive(800);
-    nrf_delay_ms(8000);
-    printf("Drivetest!!!\r\n");
-    drv8801_drive(-200);
-    printf("Drivetest!!!\r\n");
-    nrf_delay_ms(1000);
-    drv8801_drive(-800);
-    nrf_delay_ms(1000);
-    drv8801_drive(800);
+    // printf("wait5\r\n");
+    // nrf_delay_ms(5000);
+    // printf("test2\r\n");
+    // drv8801_test2();
+    // printf("done\r\n");
+    // nrf_delay_ms(8000);
+    // printf("Drivetest!!!\r\n");
+    // drv8801_drive(800);
+    // nrf_delay_ms(8000);
+    // printf("Drivetest!!!\r\n");
+    // drv8801_drive(-200);
+    // printf("Drivetest!!!\r\n");
+    // nrf_delay_ms(1000);
+    // drv8801_drive(-800);
+    // nrf_delay_ms(1000);
+    // drv8801_drive(300);
+    printf("Initializing Motorposition\r\n");
+    printf("SAADC init\r\n");
+    mpos_init();
+    printf("the value is:");
+    printf ("%" PRId16, mpos_test_convert());
+    printf("\r\n");
+
+    while(1)
+    {
+        printf("the value is:");
+        printf ("%" PRId16, mpos_test_convert());
+        printf("\r\n");
+        nrf_delay_ms(250);
+    }
+
     for (;;)
     {
+        
         // Wait for an event.
         __WFE();
+
 
         // Clear the event register.
         __SEV();

@@ -5,6 +5,10 @@
         "nrf_delay.h": "c",
         "boards.h": "c",
         "drv8801.h": "c",
-        "nrfx.h": "c"
+        "nrfx.h": "c",
+        "nrf_drv_saadc.h": "c",
+        "nrfx_saadc.h": "c",
+        "nrfx_config.h": "c",
+        "nrfx_glue.h": "c"
     }
 }

@@ -52,4 +52,4 @@ void drv8801_drive(int16_t drv8801_duty);
 }
 #endif
 
-#endif // LPS22HB_H
+#endif // DRV8801_H

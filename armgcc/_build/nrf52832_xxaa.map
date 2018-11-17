@@ -163,7 +163,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_log_frontend.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_log_frontend.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_log_frontend.c.o
@@ -182,7 +182,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .debug_macro   0x00000000       0x4e _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .debug_line    0x00000000      0x4d4 _build/nrf52832_xxaa/nrf_log_frontend.c.o
- .debug_str     0x00000000    0x6a52a _build/nrf52832_xxaa/nrf_log_frontend.c.o
+ .debug_str     0x00000000    0x6a637 _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_log_frontend.c.o
  .ARM.attributes
                 0x00000000       0x39 _build/nrf52832_xxaa/nrf_log_frontend.c.o
@@ -254,7 +254,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
@@ -273,7 +273,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .debug_macro   0x00000000       0x4e _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .debug_line    0x00000000      0x4d9 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
- .debug_str     0x00000000    0x6a52f _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
+ .debug_str     0x00000000    0x6a63c _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
  .ARM.attributes
                 0x00000000       0x39 _build/nrf52832_xxaa/nrf_log_str_formatter.c.o
@@ -432,7 +432,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
@@ -458,7 +458,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x129 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_macro   0x00000000       0x49 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_line    0x00000000      0x52e _build/nrf52832_xxaa/app_error_handler_gcc.c.o
- .debug_str     0x00000000    0x6b039 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
+ .debug_str     0x00000000    0x6b146 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .debug_frame   0x00000000       0x20 _build/nrf52832_xxaa/app_error_handler_gcc.c.o
  .ARM.attributes
@@ -563,7 +563,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_macro   0x00000000       0x49 _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/app_error_weak.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/app_error_weak.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_macro   0x00000000      0x7ae _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/app_error_weak.c.o
@@ -641,7 +641,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/app_fifo.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/app_fifo.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/app_fifo.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/app_fifo.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/app_fifo.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/app_fifo.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/app_fifo.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/app_fifo.c.o
@@ -753,7 +753,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/app_uart_fifo.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/app_uart_fifo.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/app_uart_fifo.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/app_uart_fifo.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/app_uart_fifo.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/app_uart_fifo.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/app_uart_fifo.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/app_uart_fifo.c.o
@@ -1084,7 +1084,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_atomic.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_atomic.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_atomic.c.o
@@ -1104,7 +1104,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x4e _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_macro   0x00000000       0x42 _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_line    0x00000000      0x696 _build/nrf52832_xxaa/nrf_atomic.c.o
- .debug_str     0x00000000    0x6ac45 _build/nrf52832_xxaa/nrf_atomic.c.o
+ .debug_str     0x00000000    0x6ad52 _build/nrf52832_xxaa/nrf_atomic.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_atomic.c.o
  .debug_frame   0x00000000      0x150 _build/nrf52832_xxaa/nrf_atomic.c.o
  .ARM.attributes
@@ -1199,7 +1199,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_balloc.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_balloc.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_balloc.c.o
@@ -1232,7 +1232,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x17f _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_macro   0x00000000       0x9a _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_line    0x00000000      0x6cb _build/nrf52832_xxaa/nrf_balloc.c.o
- .debug_str     0x00000000    0x6e9f1 _build/nrf52832_xxaa/nrf_balloc.c.o
+ .debug_str     0x00000000    0x6eafe _build/nrf52832_xxaa/nrf_balloc.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_balloc.c.o
  .debug_frame   0x00000000       0x6c _build/nrf52832_xxaa/nrf_balloc.c.o
  .ARM.attributes
@@ -1312,7 +1312,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_fprintf.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_fprintf.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_fprintf.c.o
@@ -1332,7 +1332,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x4e _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_macro   0x00000000       0x58 _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_line    0x00000000      0x52f _build/nrf52832_xxaa/nrf_fprintf.c.o
- .debug_str     0x00000000    0x6a89e _build/nrf52832_xxaa/nrf_fprintf.c.o
+ .debug_str     0x00000000    0x6a9ab _build/nrf52832_xxaa/nrf_fprintf.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_fprintf.c.o
  .debug_frame   0x00000000       0x5c _build/nrf52832_xxaa/nrf_fprintf.c.o
  .ARM.attributes
@@ -1414,7 +1414,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
@@ -1434,7 +1434,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x4e _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_macro   0x00000000       0x58 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_line    0x00000000      0x72c _build/nrf52832_xxaa/nrf_fprintf_format.c.o
- .debug_str     0x00000000    0x6a993 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
+ .debug_str     0x00000000    0x6aaa0 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .debug_frame   0x00000000       0x9c _build/nrf52832_xxaa/nrf_fprintf_format.c.o
  .ARM.attributes
@@ -1540,7 +1540,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_macro   0x00000000       0x8e _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_macro   0x00000000       0xa7 _build/nrf52832_xxaa/nrf_memobj.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_memobj.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_macro   0x00000000       0x2d _build/nrf52832_xxaa/nrf_memobj.c.o
@@ -1572,7 +1572,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_macro   0x00000000       0x54 _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_line    0x00000000      0x7eb _build/nrf52832_xxaa/nrf_memobj.c.o
- .debug_str     0x00000000    0x6cf58 _build/nrf52832_xxaa/nrf_memobj.c.o
+ .debug_str     0x00000000    0x6d065 _build/nrf52832_xxaa/nrf_memobj.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_memobj.c.o
  .debug_frame   0x00000000       0xd8 _build/nrf52832_xxaa/nrf_memobj.c.o
  .ARM.attributes
@@ -1669,7 +1669,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_ringbuf.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_ringbuf.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_ringbuf.c.o
@@ -1696,7 +1696,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x49 _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_macro   0x00000000       0x8c _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_line    0x00000000      0x6bc _build/nrf52832_xxaa/nrf_ringbuf.c.o
- .debug_str     0x00000000    0x6b64a _build/nrf52832_xxaa/nrf_ringbuf.c.o
+ .debug_str     0x00000000    0x6b757 _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .debug_frame   0x00000000       0xd8 _build/nrf52832_xxaa/nrf_ringbuf.c.o
  .ARM.attributes
@@ -1781,7 +1781,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrf_strerror.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_strerror.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_strerror.c.o
@@ -1800,7 +1800,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_macro   0x00000000       0x4e _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_line    0x00000000      0x53c _build/nrf52832_xxaa/nrf_strerror.c.o
- .debug_str     0x00000000    0x6a60a _build/nrf52832_xxaa/nrf_strerror.c.o
+ .debug_str     0x00000000    0x6a717 _build/nrf52832_xxaa/nrf_strerror.c.o
  .comment       0x00000000       0x80 _build/nrf52832_xxaa/nrf_strerror.c.o
  .debug_frame   0x00000000       0x50 _build/nrf52832_xxaa/nrf_strerror.c.o
  .ARM.attributes
@@ -1877,7 +1877,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/retarget.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/retarget.c.o
  .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/retarget.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/retarget.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/retarget.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/retarget.c.o
  .debug_macro   0x00000000       0x2e _build/nrf52832_xxaa/retarget.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/retarget.c.o
@@ -1968,7 +1968,7 @@ Discarded input sections
  .data          0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_uart.c.o
  .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrf_drv_uart.c.o
  .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/nrf_drv_uart.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrf_drv_uart.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrf_drv_uart.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrf_drv_uart.c.o
  .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/nrf_drv_uart.c.o
  .debug_macro   0x00000000       0x51 _build/nrf52832_xxaa/nrf_drv_uart.c.o
@@ -2098,7 +2098,7 @@ Discarded input sections
  .text.nrfx_prs_release
                 0x00000000       0x18 _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/nrfx_prs.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrfx_prs.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_macro   0x00000000       0x51 _build/nrf52832_xxaa/nrfx_prs.c.o
@@ -2242,7 +2242,7 @@ Discarded input sections
  .text.nrfx_uart_rx_abort
                 0x00000000       0x14 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/nrfx_uart.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrfx_uart.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_macro   0x00000000       0x51 _build/nrf52832_xxaa/nrfx_uart.c.o
@@ -2390,7 +2390,7 @@ Discarded input sections
  .text.nrfx_uarte_rx_abort
                 0x00000000        0x8 _build/nrf52832_xxaa/nrfx_uarte.c.o
  .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrfx_uarte.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_uarte.c.o
  .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/nrfx_uarte.c.o
  .debug_macro   0x00000000       0x51 _build/nrf52832_xxaa/nrfx_uarte.c.o
@@ -2457,6 +2457,161 @@ Discarded input sections
  .debug_macro   0x00000000      0x179 _build/nrf52832_xxaa/nrfx_uarte.c.o
  .debug_macro   0x00000000       0x9a _build/nrf52832_xxaa/nrfx_uarte.c.o
  .debug_macro   0x00000000       0x42 _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_uninit
+                0x00000000      0x2b8 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_channel_uninit
+                0x00000000       0x88 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_sample_task_get
+                0x00000000       0x20 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_buffer_convert
+                0x00000000       0xc4 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_sample
+                0x00000000       0x30 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_calibrate_offset
+                0x00000000       0x44 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_is_busy
+                0x00000000       0x10 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_abort
+                0x00000000       0x64 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .text.nrfx_saadc_limits_set
+                0x00000000       0x74 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x51 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0xef _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x6a _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x1df _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x2d _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x3b _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x50 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x392 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000     0xccbe _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000     0x1313 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x82 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x3a3 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x3d _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x313 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x11f _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x7ae _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x3f _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x5e _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x18 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x34 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x58 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x1f _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x43 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x20 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x18e _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0xb6 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x129 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x8e _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x49 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x8c _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x19 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x7b _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x64 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x20 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x1c _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x54 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x37 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x55 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000      0x179 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x9a _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x00000000       0x42 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/main.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/main.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/main.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/main.c.o
  .group         0x00000000        0xc _build/nrf52832_xxaa/main.c.o
  .group         0x00000000        0xc _build/nrf52832_xxaa/main.c.o
  .group         0x00000000        0xc _build/nrf52832_xxaa/main.c.o
@@ -2568,7 +2723,7 @@ Discarded input sections
  .debug_macro   0x00000000       0x49 _build/nrf52832_xxaa/main.c.o
  .debug_macro   0x00000000       0x8c _build/nrf52832_xxaa/main.c.o
  .debug_macro   0x00000000       0x18 _build/nrf52832_xxaa/main.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/main.c.o
  .debug_macro   0x00000000      0x3a3 _build/nrf52832_xxaa/main.c.o
  .debug_macro   0x00000000       0x3d _build/nrf52832_xxaa/main.c.o
  .debug_macro   0x00000000      0x313 _build/nrf52832_xxaa/main.c.o
@@ -2581,6 +2736,8 @@ Discarded input sections
  .debug_macro   0x00000000       0x64 _build/nrf52832_xxaa/main.c.o
  .debug_macro   0x00000000       0x20 _build/nrf52832_xxaa/main.c.o
  .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/main.c.o
  .group         0x00000000        0xc _build/nrf52832_xxaa/system_nrf52.c.o
  .group         0x00000000        0xc _build/nrf52832_xxaa/system_nrf52.c.o
  .group         0x00000000        0xc _build/nrf52832_xxaa/system_nrf52.c.o
@@ -2701,7 +2858,7 @@ Discarded input sections
  .text.nrfx_pwm_is_stopped
                 0x00000000       0x28 _build/nrf52832_xxaa/nrfx_pwm.c.o
  .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/nrfx_pwm.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/nrfx_pwm.c.o
  .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/nrfx_pwm.c.o
  .debug_macro   0x00000000       0x51 _build/nrf52832_xxaa/nrfx_pwm.c.o
@@ -2828,6 +2985,10 @@ Discarded input sections
  .text          0x00000000        0x0 _build/nrf52832_xxaa/drv8801.c.o
  .data          0x00000000        0x0 _build/nrf52832_xxaa/drv8801.c.o
  .bss           0x00000000        0x0 _build/nrf52832_xxaa/drv8801.c.o
+ .text.drv8801_test2
+                0x00000000       0x34 _build/nrf52832_xxaa/drv8801.c.o
+ .text.drv8801_drive
+                0x00000000       0x4c _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/drv8801.c.o
@@ -2835,7 +2996,7 @@ Discarded input sections
  .debug_macro   0x00000000       0xef _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000       0x6a _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000      0x1df _build/nrf52832_xxaa/drv8801.c.o
- .debug_macro   0x00000000      0x9cc _build/nrf52832_xxaa/drv8801.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/drv8801.c.o
@@ -2885,6 +3046,125 @@ Discarded input sections
  .debug_macro   0x00000000       0x1d _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000       0x1c _build/nrf52832_xxaa/drv8801.c.o
  .debug_macro   0x00000000       0x1c _build/nrf52832_xxaa/drv8801.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .group         0x00000000        0xc _build/nrf52832_xxaa/mpos.c.o
+ .text          0x00000000        0x0 _build/nrf52832_xxaa/mpos.c.o
+ .data          0x00000000        0x0 _build/nrf52832_xxaa/mpos.c.o
+ .bss           0x00000000        0x0 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0xa78 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0xa0b _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x56 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x51 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0xef _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x6a _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x1df _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x2d _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x3b _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x50 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0xe66 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x392 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000     0xccbe _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000     0x1313 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x82 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x3a3 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x3d _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x313 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x11f _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x16d _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x7ae _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x3f _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x5e _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x18 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x34 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x35 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x353 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x58 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x1f _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x43 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x20 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x18e _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0xb6 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000      0x129 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x8e _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0xa7 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x49 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x8c _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x19 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x7b _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x64 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x20 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x16 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x8e _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x10 _build/nrf52832_xxaa/mpos.c.o
+ .debug_macro   0x00000000       0x22 _build/nrf52832_xxaa/mpos.c.o
  .text          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
  .data          0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
  .bss           0x00000000        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
@@ -3073,7 +3353,7 @@ RAM              0x20000000         0x00010000         xrw
 Linker script and memory map
 
 
-.text           0x00000000     0x2e9c
+.text           0x00000000     0x3368
  *(.isr_vector)
  .isr_vector    0x00000000      0x200 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
                 0x00000000                __isr_vector
@@ -3106,15 +3386,14 @@ Linker script and memory map
                 0x000002ee                RTC0_IRQHandler
                 0x000002ee                SWI4_EGU4_IRQHandler
                 0x000002ee                TIMER0_IRQHandler
-                0x000002ee                SWI2_EGU2_IRQHandler
+                0x000002ee                GPIOTE_IRQHandler
                 0x000002ee                TIMER1_IRQHandler
                 0x000002ee                ECB_IRQHandler
                 0x000002ee                SPIM1_SPIS1_TWIM1_TWIS1_SPI1_TWI1_IRQHandler
                 0x000002ee                Default_Handler
-                0x000002ee                SAADC_IRQHandler
                 0x000002ee                CCM_AAR_IRQHandler
                 0x000002ee                WDT_IRQHandler
-                0x000002ee                GPIOTE_IRQHandler
+                0x000002ee                SWI2_EGU2_IRQHandler
                 0x000002ee                SWI5_EGU5_IRQHandler
                 0x000002ee                RNG_IRQHandler
                 0x000002ee                RTC2_IRQHandler
@@ -3206,167 +3485,177 @@ Linker script and memory map
  .text.nrfx_uarte_rx
                 0x00001154      0x12c _build/nrf52832_xxaa/nrfx_uarte.c.o
                 0x00001154                nrfx_uarte_rx
+ .text.SAADC_IRQHandler
+                0x00001280      0x1f0 _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x00001280                SAADC_IRQHandler
+ .text.nrfx_saadc_init
+                0x00001470       0x9c _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x00001470                nrfx_saadc_init
+ .text.nrfx_saadc_channel_init
+                0x0000150c       0xd8 _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x0000150c                nrfx_saadc_channel_init
+ .text.nrfx_saadc_sample_convert
+                0x000015e4      0x19c _build/nrf52832_xxaa/nrfx_saadc.c.o
+                0x000015e4                nrfx_saadc_sample_convert
  .text.uart_error_handle
-                0x00001280       0x14 _build/nrf52832_xxaa/main.c.o
-                0x00001280                uart_error_handle
- .text.nrf_delay_ms.part.0
-                0x00001294       0x1c _build/nrf52832_xxaa/main.c.o
+                0x00001780       0x14 _build/nrf52832_xxaa/main.c.o
+                0x00001780                uart_error_handle
  .text.startup.main
-                0x000012b0       0xfc _build/nrf52832_xxaa/main.c.o
-                0x000012b0                main
+                0x00001794       0xe4 _build/nrf52832_xxaa/main.c.o
+                0x00001794                main
  .text.SystemInit
-                0x000013ac      0x3c0 _build/nrf52832_xxaa/system_nrf52.c.o
-                0x000013ac                SystemInit
+                0x00001878      0x3c0 _build/nrf52832_xxaa/system_nrf52.c.o
+                0x00001878                SystemInit
  .text.nrfx_pwm_init
-                0x0000176c      0x22c _build/nrf52832_xxaa/nrfx_pwm.c.o
-                0x0000176c                nrfx_pwm_init
+                0x00001c38      0x22c _build/nrf52832_xxaa/nrfx_pwm.c.o
+                0x00001c38                nrfx_pwm_init
  .text.nrfx_pwm_simple_playback
-                0x00001998       0xf4 _build/nrf52832_xxaa/nrfx_pwm.c.o
-                0x00001998                nrfx_pwm_simple_playback
+                0x00001e64       0xf4 _build/nrf52832_xxaa/nrfx_pwm.c.o
+                0x00001e64                nrfx_pwm_simple_playback
  .text.PWM0_IRQHandler
-                0x00001a8c       0xbc _build/nrf52832_xxaa/nrfx_pwm.c.o
-                0x00001a8c                PWM0_IRQHandler
+                0x00001f58       0xbc _build/nrf52832_xxaa/nrfx_pwm.c.o
+                0x00001f58                PWM0_IRQHandler
  .text.PWM1_IRQHandler
-                0x00001b48       0xbc _build/nrf52832_xxaa/nrfx_pwm.c.o
-                0x00001b48                PWM1_IRQHandler
+                0x00002014       0xbc _build/nrf52832_xxaa/nrfx_pwm.c.o
+                0x00002014                PWM1_IRQHandler
  .text.PWM2_IRQHandler
-                0x00001c04       0xbc _build/nrf52832_xxaa/nrfx_pwm.c.o
-                0x00001c04                PWM2_IRQHandler
+                0x000020d0       0xbc _build/nrf52832_xxaa/nrfx_pwm.c.o
+                0x000020d0                PWM2_IRQHandler
  .text.drv8801_init
-                0x00001cc0       0x38 _build/nrf52832_xxaa/drv8801.c.o
-                0x00001cc0                drv8801_init
+                0x0000218c       0x38 _build/nrf52832_xxaa/drv8801.c.o
+                0x0000218c                drv8801_init
  .text.drv8801_test
-                0x00001cf8       0x34 _build/nrf52832_xxaa/drv8801.c.o
-                0x00001cf8                drv8801_test
- .text.drv8801_test2
-                0x00001d2c       0x34 _build/nrf52832_xxaa/drv8801.c.o
-                0x00001d2c                drv8801_test2
- .text.drv8801_drive
-                0x00001d60       0x4c _build/nrf52832_xxaa/drv8801.c.o
-                0x00001d60                drv8801_drive
- .text.exit     0x00001dac       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
-                0x00001dac                exit
+                0x000021c4       0x34 _build/nrf52832_xxaa/drv8801.c.o
+                0x000021c4                drv8801_test
+ .text.mpos_init
+                0x000021f8       0x34 _build/nrf52832_xxaa/mpos.c.o
+                0x000021f8                mpos_init
+ .text.mpos_test_convert
+                0x0000222c       0x18 _build/nrf52832_xxaa/mpos.c.o
+                0x0000222c                mpos_test_convert
+ .text.exit     0x00002244       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                0x00002244                exit
  .text.__libc_init_array
-                0x00001dd4       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
-                0x00001dd4                __libc_init_array
- .text.memset   0x00001e1c       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
-                0x00001e1c                memset
- .text.printf   0x00001e2c       0x30 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-printf.o)
-                0x00001e2c                iprintf
-                0x00001e2c                printf
- .text.std      0x00001e5c       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x0000226c       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                0x0000226c                __libc_init_array
+ .text.memset   0x000022b4       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                0x000022b4                memset
+ .text.printf   0x000022c4       0x30 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-printf.o)
+                0x000022c4                iprintf
+                0x000022c4                printf
+ .text.std      0x000022f4       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
  .text._cleanup_r
-                0x00001ea4        0xc c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
-                0x00001ea4                _cleanup_r
+                0x0000233c        0xc c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x0000233c                _cleanup_r
  .text.__sfmoreglue
-                0x00001eb0       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
-                0x00001eb0                __sfmoreglue
- .text.__sinit  0x00001edc       0x60 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
-                0x00001edc                __sinit
- .text.__sfp    0x00001f3c       0x78 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
-                0x00001f3c                __sfp
+                0x00002348       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x00002348                __sfmoreglue
+ .text.__sinit  0x00002374       0x60 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x00002374                __sinit
+ .text.__sfp    0x000023d4       0x78 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x000023d4                __sfp
  .text._fwalk_reent
-                0x00001fb4       0x3c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fwalk.o)
-                0x00001fb4                _fwalk_reent
+                0x0000244c       0x3c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fwalk.o)
+                0x0000244c                _fwalk_reent
  .text._malloc_r
-                0x00001ff0       0xb4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
-                0x00001ff0                _malloc_r
+                0x00002488       0xb4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x00002488                _malloc_r
  .text.__sfputc_r
-                0x000020a4       0x2e c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000253c       0x2e c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
  .text.__sfputs_r
-                0x000020d2       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
-                0x000020d2                __sfputs_r
- *fill*         0x000020f6        0x2 
+                0x0000256a       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000256a                __sfputs_r
+ *fill*         0x0000258e        0x2 
  .text._vfprintf_r
-                0x000020f8      0x22c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
-                0x000020f8                _vfprintf_r
-                0x000020f8                _vfiprintf_r
+                0x00002590      0x22c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00002590                _vfprintf_r
+                0x00002590                _vfiprintf_r
  .text._printf_common
-                0x00002324       0xea c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x00002324                _printf_common
- *fill*         0x0000240e        0x2 
+                0x000027bc       0xea c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000027bc                _printf_common
+ *fill*         0x000028a6        0x2 
  .text._printf_i
-                0x00002410      0x224 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
-                0x00002410                _printf_i
- .text._sbrk_r  0x00002634       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
-                0x00002634                _sbrk_r
- .text.__sread  0x00002654       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
-                0x00002654                __sread
+                0x000028a8      0x224 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x000028a8                _printf_i
+ .text._sbrk_r  0x00002acc       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                0x00002acc                _sbrk_r
+ .text.__sread  0x00002aec       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
+                0x00002aec                __sread
  .text.__swrite
-                0x00002676       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
-                0x00002676                __swrite
- .text.__sseek  0x000026ae       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
-                0x000026ae                __sseek
+                0x00002b0e       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
+                0x00002b0e                __swrite
+ .text.__sseek  0x00002b46       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
+                0x00002b46                __sseek
  .text.__sclose
-                0x000026d2        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
-                0x000026d2                __sclose
- *fill*         0x000026da        0x2 
+                0x00002b6a        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
+                0x00002b6a                __sclose
+ *fill*         0x00002b72        0x2 
  .text.__swbuf_r
-                0x000026dc       0xa4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
-                0x000026dc                __swbuf_r
+                0x00002b74       0xa4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
+                0x00002b74                __swbuf_r
  .text._write_r
-                0x00002780       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-writer.o)
-                0x00002780                _write_r
+                0x00002c18       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-writer.o)
+                0x00002c18                _write_r
  .text.__swsetup_r
-                0x000027a4       0xdc c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o)
-                0x000027a4                __swsetup_r
+                0x00002c3c       0xdc c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o)
+                0x00002c3c                __swsetup_r
  .text._close_r
-                0x00002880       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-closer.o)
-                0x00002880                _close_r
+                0x00002d18       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-closer.o)
+                0x00002d18                _close_r
  .text.__sflush_r
-                0x000028a0      0x10c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
-                0x000028a0                __sflush_r
+                0x00002d38      0x10c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
+                0x00002d38                __sflush_r
  .text._fflush_r
-                0x000029ac       0x54 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
-                0x000029ac                _fflush_r
+                0x00002e44       0x54 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
+                0x00002e44                _fflush_r
  .text._lseek_r
-                0x00002a00       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-lseekr.o)
-                0x00002a00                _lseek_r
+                0x00002e98       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-lseekr.o)
+                0x00002e98                _lseek_r
  .text.__swhatbuf_r
-                0x00002a24       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
-                0x00002a24                __swhatbuf_r
+                0x00002ebc       0x48 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
+                0x00002ebc                __swhatbuf_r
  .text.__smakebuf_r
-                0x00002a6c       0x80 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
-                0x00002a6c                __smakebuf_r
- *fill*         0x00002aec        0x4 
- .text          0x00002af0       0xa0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
-                0x00002af0                memchr
+                0x00002f04       0x80 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
+                0x00002f04                __smakebuf_r
+ *fill*         0x00002f84        0xc 
+ .text          0x00002f90       0xa0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+                0x00002f90                memchr
  .text.__malloc_lock
-                0x00002b90        0x2 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
-                0x00002b90                __malloc_lock
+                0x00003030        0x2 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x00003030                __malloc_lock
  .text.__malloc_unlock
-                0x00002b92        0x2 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
-                0x00002b92                __malloc_unlock
- .text._free_r  0x00002b94       0x9c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
-                0x00002b94                _free_r
- .text._read_r  0x00002c30       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-readr.o)
-                0x00002c30                _read_r
+                0x00003032        0x2 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x00003032                __malloc_unlock
+ .text._free_r  0x00003034       0x9c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                0x00003034                _free_r
+ .text._read_r  0x000030d0       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-readr.o)
+                0x000030d0                _read_r
  .text._fstat_r
-                0x00002c54       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fstatr.o)
-                0x00002c54                _fstat_r
+                0x000030f4       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fstatr.o)
+                0x000030f4                _fstat_r
  .text._isatty_r
-                0x00002c78       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-isattyr.o)
-                0x00002c78                _isatty_r
- .text._close   0x00002c98       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(close.o)
-                0x00002c98                _close
- .text._fstat   0x00002ca8       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(fstat.o)
-                0x00002ca8                _fstat
- .text._isatty  0x00002cb8       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(isatty.o)
-                0x00002cb8                _isatty
- .text._lseek   0x00002cc8       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(lseek.o)
-                0x00002cc8                _lseek
- .text._sbrk    0x00002cd8       0x1c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
-                0x00002cd8                _sbrk
- .text._exit    0x00002cf4        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
-                0x00002cf4                _exit
+                0x00003118       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-isattyr.o)
+                0x00003118                _isatty_r
+ .text._close   0x00003138       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(close.o)
+                0x00003138                _close
+ .text._fstat   0x00003148       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(fstat.o)
+                0x00003148                _fstat
+ .text._isatty  0x00003158       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(isatty.o)
+                0x00003158                _isatty
+ .text._lseek   0x00003168       0x10 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(lseek.o)
+                0x00003168                _lseek
+ .text._sbrk    0x00003178       0x1c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x00003178                _sbrk
+ .text._exit    0x00003194        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                0x00003194                _exit
  *(.init)
- .init          0x00002cf8        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
-                0x00002cf8                _init
- .init          0x00002cfc        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .init          0x00003198        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x00003198                _init
+ .init          0x0000319c        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
  *(.fini)
- .fini          0x00002d04        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
-                0x00002d04                _fini
- .fini          0x00002d08        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+ .fini          0x000031a4        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crti.o
+                0x000031a4                _fini
+ .fini          0x000031a8        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
@@ -3378,84 +3667,86 @@ Linker script and memory map
  *(SORT_BY_NAME(.dtors.*))
  *(.dtors)
  *(.rodata*)
- .rodata        0x00002d10       0x20 _build/nrf52832_xxaa/app_uart_fifo.c.o
- .rodata        0x00002d30       0x18 _build/nrf52832_xxaa/main.c.o
- *fill*         0x00002d48        0x8 
- .rodata.delay_bytecode.8043
-                0x00002d50        0x6 _build/nrf52832_xxaa/main.c.o
- *fill*         0x00002d56        0x2 
+ .rodata        0x000031b0       0x20 _build/nrf52832_xxaa/app_uart_fifo.c.o
+ .rodata        0x000031d0       0x18 _build/nrf52832_xxaa/main.c.o
+ *fill*         0x000031e8        0x8 
+ .rodata.delay_bytecode.8088
+                0x000031f0        0x6 _build/nrf52832_xxaa/main.c.o
+ *fill*         0x000031f6        0x2 
  .rodata.main.str1.4
-                0x00002d58       0x7c _build/nrf52832_xxaa/main.c.o
-                                 0x7b (size before relaxing)
- .rodata        0x00002dd4       0x2c _build/nrf52832_xxaa/drv8801.c.o
+                0x000031f8       0x9c _build/nrf52832_xxaa/main.c.o
+                                 0x9b (size before relaxing)
+ .rodata        0x00003294       0x2c _build/nrf52832_xxaa/drv8801.c.o
+ .rodata        0x000032c0        0x9 _build/nrf52832_xxaa/mpos.c.o
+ *fill*         0x000032c9        0x3 
  .rodata._global_impure_ptr
-                0x00002e00        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
-                0x00002e00                _global_impure_ptr
+                0x000032cc        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x000032cc                _global_impure_ptr
  .rodata.__sf_fake_stderr
-                0x00002e04       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
-                0x00002e04                __sf_fake_stderr
+                0x000032d0       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x000032d0                __sf_fake_stderr
  .rodata.__sf_fake_stdin
-                0x00002e24       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
-                0x00002e24                __sf_fake_stdin
+                0x000032f0       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x000032f0                __sf_fake_stdin
  .rodata.__sf_fake_stdout
-                0x00002e44       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
-                0x00002e44                __sf_fake_stdout
+                0x00003310       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x00003310                __sf_fake_stdout
  .rodata._vfprintf_r.str1.1
-                0x00002e64       0x11 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x00003330       0x11 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
  .rodata._printf_i.str1.1
-                0x00002e75       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00003341       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
  *(.eh_frame*)
- *fill*         0x00002e97        0x1 
- .eh_frame      0x00002e98        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
- .eh_frame      0x00002e98        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ *fill*         0x00003363        0x1 
+ .eh_frame      0x00003364        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+ .eh_frame      0x00003364        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
 
-.glue_7         0x00002e9c        0x0
- .glue_7        0x00002e9c        0x0 linker stubs
+.glue_7         0x00003368        0x0
+ .glue_7        0x00003368        0x0 linker stubs
 
-.glue_7t        0x00002e9c        0x0
- .glue_7t       0x00002e9c        0x0 linker stubs
+.glue_7t        0x00003368        0x0
+ .glue_7t       0x00003368        0x0 linker stubs
 
-.vfp11_veneer   0x00002e9c        0x0
- .vfp11_veneer  0x00002e9c        0x0 linker stubs
+.vfp11_veneer   0x00003368        0x0
+ .vfp11_veneer  0x00003368        0x0 linker stubs
 
-.v4_bx          0x00002e9c        0x0
- .v4_bx         0x00002e9c        0x0 linker stubs
+.v4_bx          0x00003368        0x0
+ .v4_bx         0x00003368        0x0 linker stubs
 
-.iplt           0x00002e9c        0x0
- .iplt          0x00002e9c        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+.iplt           0x00003368        0x0
+ .iplt          0x00003368        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
 
 .mem_section_dummy_rom
 
 .log_const_data
-                0x00002e9c        0x0
+                0x00003368        0x0
                 [!provide]                PROVIDE (__start_log_const_data = .)
  *(SORT_BY_NAME(.log_const_data*))
                 [!provide]                PROVIDE (__stop_log_const_data = .)
 
-.log_backends   0x00002e9c        0x0
+.log_backends   0x00003368        0x0
                 [!provide]                PROVIDE (__start_log_backends = .)
  *(SORT_BY_NAME(.log_backends*))
                 [!provide]                PROVIDE (__stop_log_backends = .)
 
-.nrf_balloc     0x00002e9c        0x0
+.nrf_balloc     0x00003368        0x0
                 [!provide]                PROVIDE (__start_nrf_balloc = .)
  *(.nrf_balloc)
                 [!provide]                PROVIDE (__stop_nrf_balloc = .)
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
-                0x00002e9c                __exidx_start = .
+                0x00003368                __exidx_start = .
 
-.ARM.exidx      0x00002e9c        0x8
+.ARM.exidx      0x00003368        0x8
  *(.ARM.exidx* .gnu.linkonce.armexidx.*)
- .ARM.exidx     0x00002e9c        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
-                0x00002ea4                __exidx_end = .
-                0x00002ea4                __etext = .
+ .ARM.exidx     0x00003368        0x8 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard/crt0.o
+                0x00003370                __exidx_end = .
+                0x00003370                __etext = .
 
-.rel.dyn        0x00002ea4        0x0
- .rel.iplt      0x00002ea4        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
+.rel.dyn        0x00003370        0x0
+ .rel.iplt      0x00003370        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
 
-.data           0x20000000       0xb4 load address 0x00002ea4
+.data           0x20000000       0xb4 load address 0x00003370
                 0x20000000                __data_start__ = .
  *(vtable)
  *(.data*)
@@ -3518,10 +3809,12 @@ LOAD _build/nrf52832_xxaa/nrf_drv_uart.c.o
 LOAD _build/nrf52832_xxaa/nrfx_prs.c.o
 LOAD _build/nrf52832_xxaa/nrfx_uart.c.o
 LOAD _build/nrf52832_xxaa/nrfx_uarte.c.o
+LOAD _build/nrf52832_xxaa/nrfx_saadc.c.o
 LOAD _build/nrf52832_xxaa/main.c.o
 LOAD _build/nrf52832_xxaa/system_nrf52.c.o
 LOAD _build/nrf52832_xxaa/nrfx_pwm.c.o
 LOAD _build/nrf52832_xxaa/drv8801.c.o
+LOAD _build/nrf52832_xxaa/mpos.c.o
 LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a
 LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
 LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libm.a
@@ -3542,7 +3835,7 @@ LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/g
 LOAD c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a
 END GROUP
 
-.igot.plt       0x200000b4        0x0 load address 0x00002f58
+.igot.plt       0x200000b4        0x0 load address 0x00003424
  .igot.plt      0x200000b4        0x0 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtbegin.o
                 0x200000b4                . = ALIGN (0x4)
 
@@ -3560,7 +3853,7 @@ END GROUP
  *(SORT_BY_NAME(.log_filter_data*))
                 [!provide]                PROVIDE (__stop_log_filter_data = .)
 
-.bss            0x200000b4      0x2dc load address 0x00002f58
+.bss            0x200000b4      0x30c load address 0x00003424
                 0x200000b4                . = ALIGN (0x4)
                 0x200000b4                __bss_start__ = .
  *(.bss*)
@@ -3589,46 +3882,47 @@ END GROUP
                 0x2000010c        0x8 _build/nrf52832_xxaa/nrfx_prs.c.o
  .bss.m_cb      0x20000114       0x2c _build/nrf52832_xxaa/nrfx_uart.c.o
  .bss.m_cb      0x20000140       0x24 _build/nrf52832_xxaa/nrfx_uarte.c.o
- .bss.rx_buf.8940
-                0x20000164      0x100 _build/nrf52832_xxaa/main.c.o
- .bss.tx_buf.8941
-                0x20000264      0x100 _build/nrf52832_xxaa/main.c.o
- .bss.m_cb      0x20000364       0x18 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .bss.m_cb      0x20000164       0x30 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .bss.rx_buf.9281
+                0x20000194      0x100 _build/nrf52832_xxaa/main.c.o
+ .bss.tx_buf.9282
+                0x20000294      0x100 _build/nrf52832_xxaa/main.c.o
+ .bss.m_cb      0x20000394       0x18 _build/nrf52832_xxaa/nrfx_pwm.c.o
  .bss.__malloc_free_list
-                0x2000037c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
-                0x2000037c                __malloc_free_list
+                0x200003ac        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200003ac                __malloc_free_list
  .bss.__malloc_sbrk_start
-                0x20000380        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
-                0x20000380                __malloc_sbrk_start
+                0x200003b0        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x200003b0                __malloc_sbrk_start
  .bss.heap_end.5377
-                0x20000384        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x200003b4        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
  *(COMMON)
- COMMON         0x20000388        0x1 _build/nrf52832_xxaa/nrf_drv_uart.c.o
-                0x20000388                nrf_drv_uart_use_easy_dma
- *fill*         0x20000389        0x3 
- COMMON         0x2000038c        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
-                0x2000038c                errno
-                0x20000390                . = ALIGN (0x4)
-                0x20000390                __bss_end__ = .
+ COMMON         0x200003b8        0x1 _build/nrf52832_xxaa/nrf_drv_uart.c.o
+                0x200003b8                nrf_drv_uart_use_easy_dma
+ *fill*         0x200003b9        0x3 
+ COMMON         0x200003bc        0x4 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x200003bc                errno
+                0x200003c0                . = ALIGN (0x4)
+                0x200003c0                __bss_end__ = .
 
-.heap           0x20000390     0x2000
-                0x20000390                __HeapBase = .
-                0x20000390                __end__ = .
-                0x20000390                PROVIDE (end = .)
+.heap           0x200003c0     0x2000
+                0x200003c0                __HeapBase = .
+                0x200003c0                __end__ = .
+                0x200003c0                PROVIDE (end = .)
  *(.heap*)
- .heap          0x20000390     0x2000 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
-                0x20002390                __HeapLimit = .
+ .heap          0x200003c0     0x2000 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+                0x200023c0                __HeapLimit = .
 
-.stack_dummy    0x20000390     0x2000
+.stack_dummy    0x200003c0     0x2000
  *(.stack*)
- .stack         0x20000390     0x2000 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
+ .stack         0x200003c0     0x2000 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
                 0x20010000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
                 0x2000e000                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
                 0x20010000                PROVIDE (__stack = __StackTop)
                 0x00000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
                 0x000000b4                DataInitFlashUsed = (__bss_start__ - __data_start__)
-                0x00002ea4                CodeFlashUsed = (__etext - ORIGIN (FLASH))
-                0x00002f58                TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
+                0x00003370                CodeFlashUsed = (__etext - ORIGIN (FLASH))
+                0x00003424                TotalFlashUsed = (CodeFlashUsed + DataInitFlashUsed)
                 0x00000001                ASSERT ((TotalFlashUsed <= LENGTH (FLASH)), region FLASH overflowed with .data and user data)
 OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
 
@@ -3663,81 +3957,85 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .ARM.attributes
                 0x00000297       0x39 _build/nrf52832_xxaa/nrfx_uarte.c.o
  .ARM.attributes
-                0x000002d0       0x39 _build/nrf52832_xxaa/main.c.o
+                0x000002d0       0x39 _build/nrf52832_xxaa/nrfx_saadc.c.o
  .ARM.attributes
-                0x00000309       0x39 _build/nrf52832_xxaa/system_nrf52.c.o
+                0x00000309       0x39 _build/nrf52832_xxaa/main.c.o
  .ARM.attributes
-                0x00000342       0x39 _build/nrf52832_xxaa/nrfx_pwm.c.o
+                0x00000342       0x39 _build/nrf52832_xxaa/system_nrf52.c.o
  .ARM.attributes
-                0x0000037b       0x39 _build/nrf52832_xxaa/drv8801.c.o
+                0x0000037b       0x39 _build/nrf52832_xxaa/nrfx_pwm.c.o
  .ARM.attributes
-                0x000003b4       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+                0x000003b4       0x39 _build/nrf52832_xxaa/drv8801.c.o
  .ARM.attributes
-                0x000003e8       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
+                0x000003ed       0x39 _build/nrf52832_xxaa/mpos.c.o
  .ARM.attributes
-                0x0000041c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+                0x00000426       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
  .ARM.attributes
-                0x00000450       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+                0x0000045a       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-impure.o)
  .ARM.attributes
-                0x00000484       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-printf.o)
+                0x0000048e       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
  .ARM.attributes
-                0x000004b8       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+                0x000004c2       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
  .ARM.attributes
-                0x000004ec       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fwalk.o)
+                0x000004f6       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-printf.o)
  .ARM.attributes
-                0x00000520       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+                0x0000052a       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
  .ARM.attributes
-                0x00000554       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
+                0x0000055e       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fwalk.o)
  .ARM.attributes
-                0x00000588       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+                0x00000592       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
  .ARM.attributes
-                0x000005bc       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+                0x000005c6       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
  .ARM.attributes
-                0x000005f0       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
+                0x000005fa       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
  .ARM.attributes
-                0x00000624       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
+                0x0000062e       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
  .ARM.attributes
-                0x00000658       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-writer.o)
+                0x00000662       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
  .ARM.attributes
-                0x0000068c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o)
+                0x00000696       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
  .ARM.attributes
-                0x000006c0       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-closer.o)
+                0x000006ca       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-writer.o)
  .ARM.attributes
-                0x000006f4       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
+                0x000006fe       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o)
  .ARM.attributes
-                0x00000728       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-lseekr.o)
+                0x00000732       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-closer.o)
  .ARM.attributes
-                0x0000075c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
+                0x00000766       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
  .ARM.attributes
-                0x00000790       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
+                0x0000079a       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-lseekr.o)
  .ARM.attributes
-                0x000007b0       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+                0x000007ce       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
  .ARM.attributes
-                0x000007e4       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+                0x00000802       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memchr.o)
  .ARM.attributes
-                0x00000818       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-readr.o)
+                0x00000822       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
  .ARM.attributes
-                0x0000084c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+                0x00000856       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
  .ARM.attributes
-                0x00000880       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fstatr.o)
+                0x0000088a       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-readr.o)
  .ARM.attributes
-                0x000008b4       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-isattyr.o)
+                0x000008be       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
  .ARM.attributes
-                0x000008e8       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(close.o)
+                0x000008f2       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fstatr.o)
  .ARM.attributes
-                0x0000091c       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(fstat.o)
+                0x00000926       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-isattyr.o)
  .ARM.attributes
-                0x00000950       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(isatty.o)
+                0x0000095a       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(close.o)
  .ARM.attributes
-                0x00000984       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(lseek.o)
+                0x0000098e       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(fstat.o)
  .ARM.attributes
-                0x000009b8       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+                0x000009c2       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(isatty.o)
  .ARM.attributes
-                0x000009ec       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+                0x000009f6       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(lseek.o)
  .ARM.attributes
-                0x00000a20       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+                0x00000a2a       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
  .ARM.attributes
-                0x00000a54       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
+                0x00000a5e       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x00000a92       0x34 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x00000ac6       0x22 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7e-m/fpv4-sp/hard/crtn.o
 
 .comment        0x00000000       0x7f
  .comment       0x00000000       0x7f _build/nrf52832_xxaa/app_error.c.o
@@ -3751,12 +4049,14 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_prs.c.o
  .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_uart.c.o
  .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_uarte.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_saadc.c.o
  .comment       0x0000007f       0x80 _build/nrf52832_xxaa/main.c.o
  .comment       0x0000007f       0x80 _build/nrf52832_xxaa/system_nrf52.c.o
  .comment       0x0000007f       0x80 _build/nrf52832_xxaa/nrfx_pwm.c.o
  .comment       0x0000007f       0x80 _build/nrf52832_xxaa/drv8801.c.o
+ .comment       0x0000007f       0x80 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_line     0x00000000     0x77f6
+.debug_line     0x00000000     0x910c
  .debug_line    0x00000000       0x80 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
  .debug_line    0x00000080      0x4eb _build/nrf52832_xxaa/app_error.c.o
  .debug_line    0x0000056b      0x6d4 _build/nrf52832_xxaa/app_error_weak.c.o
@@ -3768,12 +4068,14 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_line    0x00002e7c      0x81c _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_line    0x00003698      0xef5 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_line    0x0000458d      0xe35 _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_line    0x000053c2      0x828 _build/nrf52832_xxaa/main.c.o
- .debug_line    0x00005bea      0x493 _build/nrf52832_xxaa/system_nrf52.c.o
- .debug_line    0x0000607d      0xf89 _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_line    0x00007006      0x7f0 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_line    0x000053c2     0x11c7 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_line    0x00006589      0x84f _build/nrf52832_xxaa/main.c.o
+ .debug_line    0x00006dd8      0x493 _build/nrf52832_xxaa/system_nrf52.c.o
+ .debug_line    0x0000726b      0xf89 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_line    0x000081f4      0x7f0 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_line    0x000089e4      0x728 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_info     0x00000000    0x16116
+.debug_info     0x00000000    0x19961
  .debug_info    0x00000000       0x26 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
  .debug_info    0x00000026      0xaeb _build/nrf52832_xxaa/app_error.c.o
  .debug_info    0x00000b11      0xe4a _build/nrf52832_xxaa/app_error_weak.c.o
@@ -3785,12 +4087,14 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_info    0x00007927     0x1072 _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_info    0x00008999     0x3818 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_info    0x0000c1b1     0x351f _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_info    0x0000f6d0     0x1023 _build/nrf52832_xxaa/main.c.o
- .debug_info    0x000106f3     0x1139 _build/nrf52832_xxaa/system_nrf52.c.o
- .debug_info    0x0001182c     0x325d _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_info    0x00014a89     0x168d _build/nrf52832_xxaa/drv8801.c.o
+ .debug_info    0x0000f6d0     0x2d5e _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_info    0x0001242e      0xedc _build/nrf52832_xxaa/main.c.o
+ .debug_info    0x0001330a     0x1139 _build/nrf52832_xxaa/system_nrf52.c.o
+ .debug_info    0x00014443     0x325d _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_info    0x000176a0     0x168d _build/nrf52832_xxaa/drv8801.c.o
+ .debug_info    0x00018d2d      0xc34 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_abbrev   0x00000000     0x2caa
+.debug_abbrev   0x00000000     0x3437
  .debug_abbrev  0x00000000       0x14 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
  .debug_abbrev  0x00000014      0x235 _build/nrf52832_xxaa/app_error.c.o
  .debug_abbrev  0x00000249      0x25f _build/nrf52832_xxaa/app_error_weak.c.o
@@ -3802,12 +4106,14 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_abbrev  0x000012d0      0x2f8 _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_abbrev  0x000015c8      0x4f1 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_abbrev  0x00001ab9      0x4e8 _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_abbrev  0x00001fa1      0x327 _build/nrf52832_xxaa/main.c.o
- .debug_abbrev  0x000022c8      0x1e2 _build/nrf52832_xxaa/system_nrf52.c.o
- .debug_abbrev  0x000024aa      0x4d9 _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_abbrev  0x00002983      0x327 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_abbrev  0x00001fa1      0x560 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_abbrev  0x00002501      0x302 _build/nrf52832_xxaa/main.c.o
+ .debug_abbrev  0x00002803      0x1e2 _build/nrf52832_xxaa/system_nrf52.c.o
+ .debug_abbrev  0x000029e5      0x4d9 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_abbrev  0x00002ebe      0x327 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_abbrev  0x000031e5      0x252 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_aranges  0x00000000      0x3a0
+.debug_aranges  0x00000000      0x440
  .debug_aranges
                 0x00000000       0x20 _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
  .debug_aranges
@@ -3831,46 +4137,54 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_aranges
                 0x00000248       0x68 _build/nrf52832_xxaa/nrfx_uarte.c.o
  .debug_aranges
-                0x000002b0       0x30 _build/nrf52832_xxaa/main.c.o
+                0x000002b0       0x80 _build/nrf52832_xxaa/nrfx_saadc.c.o
  .debug_aranges
-                0x000002e0       0x28 _build/nrf52832_xxaa/system_nrf52.c.o
+                0x00000330       0x28 _build/nrf52832_xxaa/main.c.o
  .debug_aranges
-                0x00000308       0x60 _build/nrf52832_xxaa/nrfx_pwm.c.o
+                0x00000358       0x28 _build/nrf52832_xxaa/system_nrf52.c.o
  .debug_aranges
-                0x00000368       0x38 _build/nrf52832_xxaa/drv8801.c.o
+                0x00000380       0x60 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_aranges
+                0x000003e0       0x38 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_aranges
+                0x00000418       0x28 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_str      0x00000000    0x752db
+.debug_str      0x00000000    0x77e39
  .debug_str     0x00000000       0x6f _build/nrf52832_xxaa/gcc_startup_nrf52.S.o
- .debug_str     0x0000006f    0x5fd71 _build/nrf52832_xxaa/app_error.c.o
+ .debug_str     0x0000006f    0x5fd62 _build/nrf52832_xxaa/app_error.c.o
                               0x60900 (size before relaxing)
- .debug_str     0x0005fde0     0xd2d5 _build/nrf52832_xxaa/app_error_weak.c.o
-                              0x6e0e8 (size before relaxing)
- .debug_str     0x0006d0b5      0x1fd _build/nrf52832_xxaa/app_fifo.c.o
-                              0x6a73b (size before relaxing)
- .debug_str     0x0006d2b2     0x485b _build/nrf52832_xxaa/app_uart_fifo.c.o
-                              0x6fd6a (size before relaxing)
- .debug_str     0x00071b0d      0x34d _build/nrf52832_xxaa/app_util_platform.c.o
+ .debug_str     0x0005fdd1     0xd379 _build/nrf52832_xxaa/app_error_weak.c.o
+                              0x6e1f5 (size before relaxing)
+ .debug_str     0x0006d14a      0x1fd _build/nrf52832_xxaa/app_fifo.c.o
+                              0x6a848 (size before relaxing)
+ .debug_str     0x0006d347     0x485b _build/nrf52832_xxaa/app_uart_fifo.c.o
+                              0x6fe77 (size before relaxing)
+ .debug_str     0x00071ba2      0x34d _build/nrf52832_xxaa/app_util_platform.c.o
                               0x610f2 (size before relaxing)
- .debug_str     0x00071e5a       0x38 _build/nrf52832_xxaa/retarget.c.o
-                              0x6b58a (size before relaxing)
- .debug_str     0x00071e92      0x47b _build/nrf52832_xxaa/nrf_drv_uart.c.o
-                              0x6f494 (size before relaxing)
- .debug_str     0x0007230d      0x64c _build/nrf52832_xxaa/nrfx_prs.c.o
-                              0x7151b (size before relaxing)
- .debug_str     0x00072959      0xad8 _build/nrf52832_xxaa/nrfx_uart.c.o
-                              0x726cc (size before relaxing)
- .debug_str     0x00073431      0x8a3 _build/nrf52832_xxaa/nrfx_uarte.c.o
-                              0x72abe (size before relaxing)
- .debug_str     0x00073cd4      0x5ce _build/nrf52832_xxaa/main.c.o
-                              0x6ed48 (size before relaxing)
- .debug_str     0x000742a2      0x449 _build/nrf52832_xxaa/system_nrf52.c.o
+ .debug_str     0x00071eef       0x38 _build/nrf52832_xxaa/retarget.c.o
+                              0x6b697 (size before relaxing)
+ .debug_str     0x00071f27      0x47b _build/nrf52832_xxaa/nrf_drv_uart.c.o
+                              0x6f5a1 (size before relaxing)
+ .debug_str     0x000723a2      0x647 _build/nrf52832_xxaa/nrfx_prs.c.o
+                              0x71628 (size before relaxing)
+ .debug_str     0x000729e9      0xad8 _build/nrf52832_xxaa/nrfx_uart.c.o
+                              0x727d9 (size before relaxing)
+ .debug_str     0x000734c1      0x8a3 _build/nrf52832_xxaa/nrfx_uarte.c.o
+                              0x72bcb (size before relaxing)
+ .debug_str     0x00073d64     0x1925 _build/nrf52832_xxaa/nrfx_saadc.c.o
+                              0x72f06 (size before relaxing)
+ .debug_str     0x00075689     0x1772 _build/nrf52832_xxaa/main.c.o
+                              0x704c2 (size before relaxing)
+ .debug_str     0x00076dfb      0x426 _build/nrf52832_xxaa/system_nrf52.c.o
                               0x5c45f (size before relaxing)
- .debug_str     0x000746eb      0xb50 _build/nrf52832_xxaa/nrfx_pwm.c.o
-                              0x726da (size before relaxing)
- .debug_str     0x0007523b       0xa0 _build/nrf52832_xxaa/drv8801.c.o
-                              0x6eef4 (size before relaxing)
+ .debug_str     0x00077221      0xb41 _build/nrf52832_xxaa/nrfx_pwm.c.o
+                              0x727e7 (size before relaxing)
+ .debug_str     0x00077d62       0xb2 _build/nrf52832_xxaa/drv8801.c.o
+                              0x6f001 (size before relaxing)
+ .debug_str     0x00077e14       0x25 _build/nrf52832_xxaa/mpos.c.o
+                              0x6ebbe (size before relaxing)
 
-.debug_loc      0x00000000     0x5cdc
+.debug_loc      0x00000000     0x6f86
  .debug_loc     0x00000000       0xca _build/nrf52832_xxaa/app_error.c.o
  .debug_loc     0x000000ca       0x42 _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_loc     0x0000010c      0x6a3 _build/nrf52832_xxaa/app_fifo.c.o
@@ -3881,11 +4195,13 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_loc     0x00001237       0xc6 _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_loc     0x000012fd     0x1902 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_loc     0x00002bff     0x1352 _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_loc     0x00003f51      0x129 _build/nrf52832_xxaa/main.c.o
- .debug_loc     0x0000407a     0x1b52 _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_loc     0x00005bcc      0x110 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_loc     0x00003f51     0x1331 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_loc     0x00005282       0x8f _build/nrf52832_xxaa/main.c.o
+ .debug_loc     0x00005311     0x1b52 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_loc     0x00006e63      0x110 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_loc     0x00006f73       0x13 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_ranges   0x00000000     0x1478
+.debug_ranges   0x00000000     0x1fd8
  .debug_ranges  0x00000000       0x18 _build/nrf52832_xxaa/app_error.c.o
  .debug_ranges  0x00000018       0x10 _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_ranges  0x00000028      0x128 _build/nrf52832_xxaa/app_fifo.c.o
@@ -3896,12 +4212,14 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_ranges  0x000002f8       0x38 _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_ranges  0x00000330      0x4a0 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_ranges  0x000007d0      0x420 _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_ranges  0x00000bf0       0x58 _build/nrf52832_xxaa/main.c.o
- .debug_ranges  0x00000c48      0x168 _build/nrf52832_xxaa/system_nrf52.c.o
- .debug_ranges  0x00000db0      0x5e0 _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_ranges  0x00001390       0xe8 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_ranges  0x00000bf0      0xb68 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_ranges  0x00001758       0x38 _build/nrf52832_xxaa/main.c.o
+ .debug_ranges  0x00001790      0x168 _build/nrf52832_xxaa/system_nrf52.c.o
+ .debug_ranges  0x000018f8      0x5e0 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_ranges  0x00001ed8       0xe8 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_ranges  0x00001fc0       0x18 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_macro    0x00000000     0x4111
+.debug_macro    0x00000000     0x4d74
  .debug_macro   0x00000000      0x21f _build/nrf52832_xxaa/app_error.c.o
  .debug_macro   0x0000021f       0x35 _build/nrf52832_xxaa/app_error.c.o
  .debug_macro   0x00000254       0x22 _build/nrf52832_xxaa/app_error.c.o
@@ -3960,18 +4278,24 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_macro   0x00002c5a      0x3cd _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_macro   0x00003027       0x1c _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_macro   0x00003043      0x3df _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_macro   0x00003422      0x38c _build/nrf52832_xxaa/main.c.o
- .debug_macro   0x000037ae       0x16 _build/nrf52832_xxaa/main.c.o
- .debug_macro   0x000037c4       0x8e _build/nrf52832_xxaa/main.c.o
- .debug_macro   0x00003852       0x10 _build/nrf52832_xxaa/main.c.o
- .debug_macro   0x00003862       0x1d _build/nrf52832_xxaa/main.c.o
- .debug_macro   0x0000387f       0x1c _build/nrf52832_xxaa/main.c.o
- .debug_macro   0x0000389b       0xf1 _build/nrf52832_xxaa/system_nrf52.c.o
- .debug_macro   0x0000398c      0x3b8 _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_macro   0x00003d44      0x339 _build/nrf52832_xxaa/drv8801.c.o
- .debug_macro   0x0000407d       0x94 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_macro   0x00003422      0x3d9 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x000037fb       0x10 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x0000380b       0x22 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_macro   0x0000382d      0x3c5 _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x00003bf2       0x10 _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x00003c02      0x4cc _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x000040ce       0x16 _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x000040e4       0x8e _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x00004172       0x10 _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x00004182       0x1d _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x0000419f       0x1c _build/nrf52832_xxaa/main.c.o
+ .debug_macro   0x000041bb       0xf1 _build/nrf52832_xxaa/system_nrf52.c.o
+ .debug_macro   0x000042ac      0x3b8 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_macro   0x00004664      0x339 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_macro   0x0000499d       0x94 _build/nrf52832_xxaa/drv8801.c.o
+ .debug_macro   0x00004a31      0x343 _build/nrf52832_xxaa/mpos.c.o
 
-.debug_frame    0x00000000     0x11c8
+.debug_frame    0x00000000     0x1424
  .debug_frame   0x00000000       0x54 _build/nrf52832_xxaa/app_error.c.o
  .debug_frame   0x00000054       0x20 _build/nrf52832_xxaa/app_error_weak.c.o
  .debug_frame   0x00000074      0x110 _build/nrf52832_xxaa/app_fifo.c.o
@@ -3982,40 +4306,42 @@ OUTPUT(_build/nrf52832_xxaa.out elf32-littlearm)
  .debug_frame   0x000003a4       0x4c _build/nrf52832_xxaa/nrfx_prs.c.o
  .debug_frame   0x000003f0      0x198 _build/nrf52832_xxaa/nrfx_uart.c.o
  .debug_frame   0x00000588      0x188 _build/nrf52832_xxaa/nrfx_uarte.c.o
- .debug_frame   0x00000710       0x58 _build/nrf52832_xxaa/main.c.o
- .debug_frame   0x00000768       0x40 _build/nrf52832_xxaa/system_nrf52.c.o
- .debug_frame   0x000007a8      0x188 _build/nrf52832_xxaa/nrfx_pwm.c.o
- .debug_frame   0x00000930       0x9c _build/nrf52832_xxaa/drv8801.c.o
- .debug_frame   0x000009cc       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
- .debug_frame   0x000009f4       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
- .debug_frame   0x00000a20       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
- .debug_frame   0x00000a40       0x74 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-printf.o)
- .debug_frame   0x00000ab4      0x11c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
- .debug_frame   0x00000bd0       0x54 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fwalk.o)
- .debug_frame   0x00000c24       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
- .debug_frame   0x00000c50       0xac c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
- .debug_frame   0x00000cfc       0x60 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
- .debug_frame   0x00000d5c       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
- .debug_frame   0x00000d88       0x88 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
- .debug_frame   0x00000e10       0x40 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
- .debug_frame   0x00000e50       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-writer.o)
- .debug_frame   0x00000e7c       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o)
- .debug_frame   0x00000ea8       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-closer.o)
- .debug_frame   0x00000ed4       0x68 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
- .debug_frame   0x00000f3c       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-lseekr.o)
- .debug_frame   0x00000f68       0x58 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
- .debug_frame   0x00000fc0       0x30 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
- .debug_frame   0x00000ff0       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
- .debug_frame   0x00001028       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-readr.o)
- .debug_frame   0x00001054       0x5c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
- .debug_frame   0x000010b0       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fstatr.o)
- .debug_frame   0x000010dc       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-isattyr.o)
- .debug_frame   0x00001108       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(close.o)
- .debug_frame   0x00001128       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(fstat.o)
- .debug_frame   0x00001148       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(isatty.o)
- .debug_frame   0x00001168       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(lseek.o)
- .debug_frame   0x00001188       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
- .debug_frame   0x000011a8       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
+ .debug_frame   0x00000710      0x224 _build/nrf52832_xxaa/nrfx_saadc.c.o
+ .debug_frame   0x00000934       0x44 _build/nrf52832_xxaa/main.c.o
+ .debug_frame   0x00000978       0x40 _build/nrf52832_xxaa/system_nrf52.c.o
+ .debug_frame   0x000009b8      0x188 _build/nrf52832_xxaa/nrfx_pwm.c.o
+ .debug_frame   0x00000b40       0x9c _build/nrf52832_xxaa/drv8801.c.o
+ .debug_frame   0x00000bdc       0x4c _build/nrf52832_xxaa/mpos.c.o
+ .debug_frame   0x00000c28       0x28 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x00000c50       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-init.o)
+ .debug_frame   0x00000c7c       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x00000c9c       0x74 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-printf.o)
+ .debug_frame   0x00000d10      0x11c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-findfp.o)
+ .debug_frame   0x00000e2c       0x54 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fwalk.o)
+ .debug_frame   0x00000e80       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x00000eac       0xac c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf.o)
+ .debug_frame   0x00000f58       0x60 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-vfprintf_i.o)
+ .debug_frame   0x00000fb8       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000fe4       0x88 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-stdio.o)
+ .debug_frame   0x0000106c       0x40 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wbuf.o)
+ .debug_frame   0x000010ac       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-writer.o)
+ .debug_frame   0x000010d8       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-wsetup.o)
+ .debug_frame   0x00001104       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-closer.o)
+ .debug_frame   0x00001130       0x68 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fflush.o)
+ .debug_frame   0x00001198       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-lseekr.o)
+ .debug_frame   0x000011c4       0x58 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-makebuf.o)
+ .debug_frame   0x0000121c       0x30 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000124c       0x38 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x00001284       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-readr.o)
+ .debug_frame   0x000012b0       0x5c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000130c       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-fstatr.o)
+ .debug_frame   0x00001338       0x2c c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libc_nano.a(lib_a-isattyr.o)
+ .debug_frame   0x00001364       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(close.o)
+ .debug_frame   0x00001384       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(fstat.o)
+ .debug_frame   0x000013a4       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(isatty.o)
+ .debug_frame   0x000013c4       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(lseek.o)
+ .debug_frame   0x000013e4       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(sbrk.o)
+ .debug_frame   0x00001404       0x20 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(_exit.o)
 
 .stab           0x00000000       0x6c
  .stab          0x00000000       0x24 c:/program files (x86)/gnu tools arm embedded/7 2018-q2-update/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m/fpv4-sp/hard\libnosys.a(close.o)
