@@ -63,7 +63,7 @@ _build/nrf52832_xxaa/drv8801.c.o: \
  ../nrf5_SDK/components/libraries/util/sdk_resources.h \
  ../nrf5_SDK/modules/nrfx/drivers/nrfx_errors.h \
  ../nrf5_SDK/modules/nrfx/hal/nrf_pwm.h \
- ../nrf5_SDK/modules/nrfx/hal/nrf_gpio.h ..//boards/cx.h
+ ../nrf5_SDK/modules/nrfx/hal/nrf_gpio.h ../boards/cx.h
 
 ../nrf5_SDK/components/drivers_ext/drv8801/drv8801.h:
 
@@ -197,4 +197,4 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 
 ../nrf5_SDK/modules/nrfx/hal/nrf_gpio.h:
 
-..//boards/cx.h:
+../boards/cx.h:

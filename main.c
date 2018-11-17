@@ -119,6 +119,11 @@ int main(void)
     nrf_delay_ms(8000);
     printf("Drivetest!!!\r\n");
     drv8801_drive(-200);
+    printf("Drivetest!!!\r\n");
+    nrf_delay_ms(1000);
+    drv8801_drive(-800);
+    nrf_delay_ms(1000);
+    drv8801_drive(800);
     for (;;)
     {
         // Wait for an event.

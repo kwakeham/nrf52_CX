@@ -76,14 +76,15 @@ void drv8801_test2(void){
 }
 
 void drv8801_drive(int16_t drv8801_duty){
+    uint16_t temp_duty[1] = {0};
     if (drv8801_duty > 0)
     {
         nrf_gpio_pin_clear(M_PHASE);
-        uint16_t temp_duty[] = {drv8801_duty};
+        temp_duty[0] = drv8801_duty;
         nrf_pwm_sequence_t const seq_temp =
         {
-            .values.p_common = seq_values_temp,
-            .length          = NRF_PWM_VALUES_LENGTH(seq_values_temp),
+            .values.p_common = temp_duty,
+            .length          = 1,
             .repeats         = 50,
             .end_delay       = 0
         };
@@ -92,7 +93,7 @@ void drv8801_drive(int16_t drv8801_duty){
     {
         nrf_gpio_pin_set(M_PHASE);
         // drv8801_duty = 
-        uint16_t temp_duty[] = {-drv8801_duty};
+        temp_duty[0] = -drv8801_duty;
         // nrf_pwm_values_common_t seq_values_temp[] = {1000};
         nrf_pwm_sequence_t const seq_temp =
         {

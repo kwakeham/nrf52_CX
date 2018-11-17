@@ -3,6 +3,8 @@
         "app_uart.h": "c",
         "nrf_drv_uart.h": "c",
         "nrf_delay.h": "c",
-        "boards.h": "c"
+        "boards.h": "c",
+        "drv8801.h": "c",
+        "nrfx.h": "c"
     }
 }
