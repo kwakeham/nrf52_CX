@@ -26,7 +26,7 @@ _build/nrf52832_xxaa/main.c.o: ../main.c \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\stdio.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\string.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\string.h \
- c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\inttypes.h \
+ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\math.h \
  ../nRF5_SDK/components/libraries/uart/app_uart.h \
  ../nRF5_SDK/components/libraries/util/app_util_platform.h \
  ../nRF5_SDK/modules/nrfx/mdk/compiler_abstraction.h \
@@ -70,7 +70,29 @@ _build/nrf52832_xxaa/main.c.o: ../main.c \
  ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_pwm.h \
  ../nRF5_SDK/modules/nrfx/hal/nrf_pwm.h ../include/mpos.h \
  ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_saadc.h \
- ../nRF5_SDK/modules/nrfx/hal/nrf_saadc.h
+ ../nRF5_SDK/modules/nrfx/hal/nrf_saadc.h \
+ ../nRF5_SDK/components/libraries/pwr_mgmt/nrf_pwr_mgmt.h \
+ ../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section_iter.h \
+ ../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section.h \
+ ../nRF5_SDK/components/libraries/log/nrf_log.h \
+ ../nRF5_SDK/components/libraries/util/sdk_common.h \
+ ../nRF5_SDK/components/libraries/util/sdk_os.h \
+ ../nRF5_SDK/components/libraries/util/app_util.h \
+ ../nRF5_SDK/components/libraries/util/sdk_macros.h \
+ ../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section.h \
+ ../nRF5_SDK/components/libraries/strerror/nrf_strerror.h \
+ ../nRF5_SDK/components/libraries/log/src/nrf_log_internal.h \
+ ../nRF5_SDK/components/libraries/log/nrf_log_instance.h \
+ ../nRF5_SDK/components/libraries/log/nrf_log_types.h \
+ ../nRF5_SDK/components/libraries/log/nrf_log_types.h \
+ ../nRF5_SDK/components/libraries/log/nrf_log_ctrl.h \
+ ../nRF5_SDK/components/libraries/log/src/nrf_log_ctrl_internal.h \
+ ../nRF5_SDK/components/libraries/log/nrf_log_backend_interface.h \
+ ../nRF5_SDK/components/libraries/memobj/nrf_memobj.h \
+ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\stdlib.h \
+ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\machine\stdlib.h \
+ ../nRF5_SDK/components/libraries/balloc/nrf_balloc.h \
+ ../nRF5_SDK/components/libraries/log/nrf_log_default_backends.h
 
 c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\lib\gcc\arm-none-eabi\7.3.1\include\stdbool.h:
 
@@ -126,7 +148,7 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 
 c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\sys\string.h:
 
-c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\inttypes.h:
+c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\math.h:
 
 ../nRF5_SDK/components/libraries/uart/app_uart.h:
 
@@ -225,3 +247,47 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_saadc.h:
 
 ../nRF5_SDK/modules/nrfx/hal/nrf_saadc.h:
+
+../nRF5_SDK/components/libraries/pwr_mgmt/nrf_pwr_mgmt.h:
+
+../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section_iter.h:
+
+../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section.h:
+
+../nRF5_SDK/components/libraries/log/nrf_log.h:
+
+../nRF5_SDK/components/libraries/util/sdk_common.h:
+
+../nRF5_SDK/components/libraries/util/sdk_os.h:
+
+../nRF5_SDK/components/libraries/util/app_util.h:
+
+../nRF5_SDK/components/libraries/util/sdk_macros.h:
+
+../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section.h:
+
+../nRF5_SDK/components/libraries/strerror/nrf_strerror.h:
+
+../nRF5_SDK/components/libraries/log/src/nrf_log_internal.h:
+
+../nRF5_SDK/components/libraries/log/nrf_log_instance.h:
+
+../nRF5_SDK/components/libraries/log/nrf_log_types.h:
+
+../nRF5_SDK/components/libraries/log/nrf_log_types.h:
+
+../nRF5_SDK/components/libraries/log/nrf_log_ctrl.h:
+
+../nRF5_SDK/components/libraries/log/src/nrf_log_ctrl_internal.h:
+
+../nRF5_SDK/components/libraries/log/nrf_log_backend_interface.h:
+
+../nRF5_SDK/components/libraries/memobj/nrf_memobj.h:
+
+c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\stdlib.h:
+
+c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\machine\stdlib.h:
+
+../nRF5_SDK/components/libraries/balloc/nrf_balloc.h:
+
+../nRF5_SDK/components/libraries/log/nrf_log_default_backends.h:

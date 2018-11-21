@@ -51,7 +51,8 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>
-#include <inttypes.h>
+// #include <inttypes.h>
+#include <math.h>
 #include "app_uart.h"
 #include "app_error.h"
 #include "cx.h"
@@ -60,6 +61,11 @@
 #include "nrf_delay.h"
 #include "drv8801.h"
 #include "mpos.h"
+#include "nrf_pwr_mgmt.h"
+
+#include "nrf_log.h"
+#include "nrf_log_ctrl.h"
+#include "nrf_log_default_backends.h"
 
 #define MAX_TEST_DATA_BYTES     (15U)                /**< max number of test bytes to be used for tx and rx. */
 #define UART_TX_BUF_SIZE 256                         /**< UART TX buffer size. */
@@ -81,34 +87,41 @@ int main(void)
 {
     uint32_t err_code;
     
-    const app_uart_comm_params_t comm_params =
-    {
-        RX_PIN_NUMBER,
-        TX_PIN_NUMBER,
-        RTS_PIN_NUMBER,
-        CTS_PIN_NUMBER,
-        UART_HWFC,
-        false,
-#if defined (UART_PRESENT)
-        NRF_UART_BAUDRATE_115200
-#else
-        NRF_UARTE_BAUDRATE_115200
-#endif
-      };
+//     const app_uart_comm_params_t comm_params =
+//     {
+//         RX_PIN_NUMBER,
+//         TX_PIN_NUMBER,
+//         RTS_PIN_NUMBER,
+//         CTS_PIN_NUMBER,
+//         UART_HWFC,
+//         false,
+// #if defined (UART_PRESENT)
+//         NRF_UART_BAUDRATE_115200
+// #else
+//         NRF_UARTE_BAUDRATE_115200
+// #endif
+//       };
 
-    APP_UART_FIFO_INIT(&comm_params,
-                        UART_RX_BUF_SIZE,
-                        UART_TX_BUF_SIZE,
-                        uart_error_handle,
-                        APP_IRQ_PRIORITY_LOWEST,
-                        err_code);
+    // APP_UART_FIFO_INIT(&comm_params,
+    //                     UART_RX_BUF_SIZE,
+    //                     UART_TX_BUF_SIZE,
+    //                     uart_error_handle,
+    //                     APP_IRQ_PRIORITY_LOWEST,
+    //                     err_code);
 
+    err_code = NRF_LOG_INIT(NULL);
     APP_ERROR_CHECK(err_code);
 
+    NRF_LOG_DEFAULT_BACKENDS_INIT();
+    APP_ERROR_CHECK(err_code);
+
+    // ret_code_t ret_code = nrf_pwr_mgmt_init();
+    // APP_ERROR_CHECK(ret_code);
+
     printf("\r\nHellow.\r\n");
-    printf("Initialize the drv8801\r\n");
+    // printf("Initialize the drv8801\r\n");
     drv8801_init();
-    printf("initialized the drv8801, sending sequence\r\n");
+    // printf("initialized the drv8801, sending sequence\r\n");
     drv8801_test();
     // printf("wait5\r\n");
     // nrf_delay_ms(5000);
@@ -126,31 +139,48 @@ int main(void)
     // drv8801_drive(-800);
     // nrf_delay_ms(1000);
     // drv8801_drive(300);
-    printf("Initializing Motorposition\r\n");
-    printf("SAADC init\r\n");
+    // printf("Initializing Motorposition\r\n");
+    NRF_LOG_INFO("SAADC init");
     mpos_init();
-    printf("the value is:");
-    printf ("%" PRId16, mpos_test_convert());
-    printf("\r\n");
-
-    while(1)
-    {
-        printf("the value is:");
-        printf ("%" PRId16, mpos_test_convert());
-        printf("\r\n");
-        nrf_delay_ms(250);
-    }
+    NRF_LOG_INFO("mpos inited\r\n");
+    NRF_LOG_FLUSH();
+    // printf("the value is:");
+    // printf ("%" PRId16, mpos_test_convert());
+    // printf("\r\n");
+    // printf("%f\r\n", dave);
+    // nrf_delay_ms(1000);
+    // printf("delay over\r\n");
+    nrf_delay_ms(40);
+    mpos_test_convert_event_activate();
+    NRF_LOG_INFO("hotdog");
+    NRF_LOG_FLUSH();
+    display_value();
+    // nrf_delay_ms(100);
+    // mpos_test_convert_event_activate();
+    NRF_LOG_INFO("hotdog\r\n");
+    // nrf_delay_ms(10000);
+    NRF_LOG_FLUSH();
+    // int16_t sample_data;
+    // while(1)
+    // {
+    //     // printf("the value is:");
+    //     sample_data = mpos_test_convert();
+    //     printf ("%" PRId16, sample_data);
+    //     printf("\r\n");
+    //     nrf_delay_ms(20);
+    // }
 
     for (;;)
     {
-        
+        // nrf_pwr_mgmt_run();
+        NRF_LOG_FLUSH();
         // Wait for an event.
-        __WFE();
+        // __WFE();
 
 
         // Clear the event register.
-        __SEV();
-        __WFE();
+        // __SEV();
+        // __WFE();
 
         // NRF_LOG_FLUSH();
     }

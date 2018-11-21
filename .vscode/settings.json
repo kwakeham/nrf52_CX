@@ -9,6 +9,9 @@
         "nrf_drv_saadc.h": "c",
         "nrfx_saadc.h": "c",
         "nrfx_config.h": "c",
-        "nrfx_glue.h": "c"
+        "nrfx_glue.h": "c",
+        "arm_math.h": "c",
+        "nrf_mtx.h": "c",
+        "sdk_common.h": "c"
     }
 }

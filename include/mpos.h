@@ -10,6 +10,7 @@
 #define MPOS_H
 
 #include <stdint.h>
+#include <math.h>
 #include "nrfx_saadc.h"
 #include "app_error.h"
 
@@ -17,9 +18,17 @@
 extern "C" {
 #endif
 
+void saadc_callback(nrfx_saadc_evt_t const * p_event);
+
 void mpos_init(void);
 
 int16_t mpos_test_convert(void);
+
+void mpos_test_convert_event_activate(void);
+
+float angle(int16_t hall_0, int16_t hall_1);
+
+void display_value(void);
 
 #ifdef __cplusplus
 }

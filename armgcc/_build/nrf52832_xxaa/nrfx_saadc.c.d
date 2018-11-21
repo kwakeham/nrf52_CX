@@ -71,6 +71,7 @@ _build/nrf52832_xxaa/nrfx_saadc.c.o: \
  ../nRF5_SDK/components/libraries/util/app_util.h \
  ../nRF5_SDK/components/libraries/util/sdk_macros.h \
  ../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section.h \
+ ../nRF5_SDK/components/libraries/strerror/nrf_strerror.h \
  ../nRF5_SDK/components/libraries/log/src/nrf_log_internal.h \
  ../nRF5_SDK/components/libraries/log/nrf_log_instance.h \
  ../nRF5_SDK/components/libraries/log/nrf_log_types.h \
@@ -221,6 +222,8 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 ../nRF5_SDK/components/libraries/util/sdk_macros.h:
 
 ../nRF5_SDK/components/libraries/experimental_section_vars/nrf_section.h:
+
+../nRF5_SDK/components/libraries/strerror/nrf_strerror.h:
 
 ../nRF5_SDK/components/libraries/log/src/nrf_log_internal.h:
 
