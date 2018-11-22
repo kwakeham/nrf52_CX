@@ -60,6 +60,7 @@ _build/nrf52832_xxaa/mpos.c.o: ../src/mpos.c ../boards/cx.h \
  ../nRF5_SDK/components/libraries/util/sdk_resources.h \
  ../nRF5_SDK/modules/nrfx/drivers/nrfx_errors.h ../include/mpos.h \
  c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\math.h \
+ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\inttypes.h \
  ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_saadc.h \
  ../nRF5_SDK/modules/nrfx/hal/nrf_saadc.h \
  ../nRF5_SDK/components/libraries/util/app_error.h \
@@ -215,6 +216,8 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 ../include/mpos.h:
 
 c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\math.h:
+
+c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\inttypes.h:
 
 ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_saadc.h:
 

@@ -69,6 +69,7 @@ _build/nrf52832_xxaa/main.c.o: ../main.c \
  ../nRF5_SDK/components/drivers_ext/drv8801/drv8801.h \
  ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_pwm.h \
  ../nRF5_SDK/modules/nrfx/hal/nrf_pwm.h ../include/mpos.h \
+ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\inttypes.h \
  ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_saadc.h \
  ../nRF5_SDK/modules/nrfx/hal/nrf_saadc.h \
  ../nRF5_SDK/components/libraries/pwr_mgmt/nrf_pwr_mgmt.h \
@@ -243,6 +244,8 @@ c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-ea
 ../nRF5_SDK/modules/nrfx/hal/nrf_pwm.h:
 
 ../include/mpos.h:
+
+c:\program\ files\ (x86)\gnu\ tools\ arm\ embedded\7\ 2018-q2-update\arm-none-eabi\include\inttypes.h:
 
 ../nRF5_SDK/modules/nrfx/drivers/include/nrfx_saadc.h:
 

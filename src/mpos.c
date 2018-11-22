@@ -12,7 +12,8 @@
 #include "nrf_log_ctrl.h"
 
 #define SAMPLES_IN_BUFFER 1
-static nrf_saadc_value_t     m_buffer_pool;
+static nrf_saadc_value_t     m_buffer_pool[2];
+// static nrf_saadc_value_t     m_buffer_pool_cos;
 // static nrf_saadc_Valu
 // static uint32_t              m_adc_evt_counter;
 // nrf_saadc_value_t sample_sample;
@@ -92,16 +93,26 @@ void mpos_init(void)
     err_code = nrfx_saadc_init(&saadc_config, saadc_callback);
     APP_ERROR_CHECK(err_code);
 
-    nrf_saadc_channel_config_t channel_config = NRFX_SAADC_DEFAULT_CHANNEL_CONFIG_SE(NRF_SAADC_INPUT_AIN1);
-    channel_config.gain = NRF_SAADC_GAIN1_5; // this is measured against either vdd/4 or vcore = 0.6v.
+    nrf_saadc_channel_config_t channel_config_sin = NRFX_SAADC_DEFAULT_CHANNEL_CONFIG_SE(NRF_SAADC_INPUT_AIN1);
+    channel_config_sin.gain = NRF_SAADC_GAIN1_5; // this is measured against either vdd/4 or vcore = 0.6v.
 
-    nrfx_saadc_channel_init(0, &channel_config);
+    nrf_saadc_channel_config_t channel_config_cos = NRFX_SAADC_DEFAULT_CHANNEL_CONFIG_SE(NRF_SAADC_INPUT_AIN2);
+    channel_config_cos.gain = NRF_SAADC_GAIN1_5; // this is measured against either vdd/4 or vcore = 0.6v.
+
+    nrfx_saadc_channel_init(0, &channel_config_sin);
     APP_ERROR_CHECK(err_code);
 
-    err_code = nrfx_saadc_buffer_convert(&m_buffer_pool, 1);
+    nrfx_saadc_channel_init(1, &channel_config_cos);
     APP_ERROR_CHECK(err_code);
 
-    // err_code = nrfx_saadc_buffer_convert(m_buffer_pool[1], 1);
+    err_code = nrfx_saadc_buffer_convert(&m_buffer_pool[0], 1);
+    APP_ERROR_CHECK(err_code);
+
+    err_code = nrfx_saadc_buffer_convert(&m_buffer_pool[1], 1);
+    APP_ERROR_CHECK(err_code);
+
+
+    // err_code = nrfx_saadc_buffer_convert(&m_buffer_pool_cos, 1);
     // APP_ERROR_CHECK(err_code);
     
 }
@@ -127,18 +138,19 @@ void mpos_test_convert_event_activate(void)
     ret_code_t err_code;
     // printf("inside event activate\r\n");
     // err_code = nrfx_saadc_buffer_convert(m_buffer_pool[0], 1);
-    NRF_LOG_INFO("setup sample");
-    NRF_LOG_FLUSH();
+    // NRF_LOG_INFO("setup sample");
+    // NRF_LOG_FLUSH();
     err_code = nrfx_saadc_sample();
     APP_ERROR_CHECK(err_code);
-    NRF_LOG_INFO("setup sample done");
-    NRF_LOG_FLUSH();
+    // NRF_LOG_INFO("setup sample done");
+    // NRF_LOG_FLUSH();
     
-    if (err_code == NRFX_SUCCESS)
-    {
-        NRF_LOG_INFO("successfully setup the sampling\r\n");
-    } 
-    else if (err_code == NRFX_ERROR_INVALID_STATE)
+    // if (err_code == NRFX_SUCCESS)
+    // {
+    //     NRF_LOG_INFO("successfully setup the sampling\r\n");
+    // } 
+    // else 
+    if (err_code == NRFX_ERROR_INVALID_STATE)
     {
         NRF_LOG_ERROR("fuck sake \r\n");
     }
@@ -146,13 +158,14 @@ void mpos_test_convert_event_activate(void)
     
 }
 
-float angle(int16_t hall_0, int16_t  hall_1)
+double angle(int16_t hall_0, int16_t hall_1)
 {
-    return(3.2);
+    return((atan2((double)(hall_0-1980),(double)(hall_1-1980))*180/3.14159265359)+180);
 }
 
 void display_value(void)
 {
-    NRF_LOG_INFO("%d", m_buffer_pool);
+    // angle(m_buffer_pool[0], m_buffer_pool(1));
+    NRF_LOG_INFO("%d, %d, " NRF_LOG_FLOAT_MARKER, m_buffer_pool[0], m_buffer_pool[1],NRF_LOG_FLOAT(angle(m_buffer_pool[0], m_buffer_pool[1])));
     NRF_LOG_FLUSH();
 }

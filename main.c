@@ -173,7 +173,10 @@ int main(void)
     for (;;)
     {
         // nrf_pwr_mgmt_run();
-        NRF_LOG_FLUSH();
+        mpos_test_convert_event_activate();
+        nrf_delay_ms(40);
+        display_value();
+        // NRF_LOG_FLUSH();
         // Wait for an event.
         // __WFE();
 

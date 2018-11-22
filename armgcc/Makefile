@@ -137,7 +137,7 @@ LDFLAGS += -mfloat-abi=hard -mfpu=fpv4-sp-d16
 # let linker dump unused sections
 LDFLAGS += -Wl,--gc-sections
 # use newlib in nano version
-LDFLAGS += --specs=nano.specs
+LDFLAGS += --specs=nano.specs  -lc -lnosys
 LDFLAGS += -u _printf_float
 
 nrf52832_xxaa: CFLAGS += -D__HEAP_SIZE=8192
