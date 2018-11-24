@@ -169,13 +169,21 @@ int main(void)
     //     printf("\r\n");
     //     nrf_delay_ms(20);
     // }
-
+    // double temp_angle  = 0;
+    // int temp_count = 0;
     for (;;)
     {
         // nrf_pwr_mgmt_run();
         mpos_test_convert_event_activate();
-        nrf_delay_ms(40);
+        nrf_delay_ms(100);
         display_value();
+        // for(a = 0; a < 20; a++)
+        // {
+        //     if (a == 0)
+        //     {
+        //         display_value();
+        //     }
+        // }
         // NRF_LOG_FLUSH();
         // Wait for an event.
         // __WFE();

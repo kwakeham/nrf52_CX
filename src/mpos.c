@@ -13,6 +13,8 @@
 
 #define SAMPLES_IN_BUFFER 1
 static nrf_saadc_value_t     m_buffer_pool[2];
+static uint8_t rotation_count = 0;
+static double angle_old;
 // static nrf_saadc_value_t     m_buffer_pool_cos;
 // static nrf_saadc_Valu
 // static uint32_t              m_adc_evt_counter;
@@ -136,20 +138,8 @@ int16_t mpos_test_convert(void)
 void mpos_test_convert_event_activate(void)
 {
     ret_code_t err_code;
-    // printf("inside event activate\r\n");
-    // err_code = nrfx_saadc_buffer_convert(m_buffer_pool[0], 1);
-    // NRF_LOG_INFO("setup sample");
-    // NRF_LOG_FLUSH();
     err_code = nrfx_saadc_sample();
     APP_ERROR_CHECK(err_code);
-    // NRF_LOG_INFO("setup sample done");
-    // NRF_LOG_FLUSH();
-    
-    // if (err_code == NRFX_SUCCESS)
-    // {
-    //     NRF_LOG_INFO("successfully setup the sampling\r\n");
-    // } 
-    // else 
     if (err_code == NRFX_ERROR_INVALID_STATE)
     {
         NRF_LOG_ERROR("fuck sake \r\n");
@@ -160,12 +150,35 @@ void mpos_test_convert_event_activate(void)
 
 double angle(int16_t hall_0, int16_t hall_1)
 {
-    return((atan2((double)(hall_0-1980),(double)(hall_1-1980))*180/3.14159265359)+180);
+    double rotation_angle;
+    rotation_angle = (atan2((double)(hall_0-1980),(double)(hall_1-1980))*180/3.14159265359)+180 ;
+    if (angle_old > rotation_angle)
+    {
+        if ((angle_old- rotation_angle) > 180.0)
+        {
+            // rotation_count=rotation_count+1;
+            rotation_count++;
+        }
+    } else if (angle_old < rotation_angle)
+    {
+        if ((rotation_angle-angle_old) > 180.0)
+        {
+            rotation_count--;
+        }
+    }
+    angle_old = rotation_angle;
+    return(rotation_angle);
 }
 
 void display_value(void)
 {
     // angle(m_buffer_pool[0], m_buffer_pool(1));
-    NRF_LOG_INFO("%d, %d, " NRF_LOG_FLOAT_MARKER, m_buffer_pool[0], m_buffer_pool[1],NRF_LOG_FLOAT(angle(m_buffer_pool[0], m_buffer_pool[1])));
+    double temp_angle = angle(m_buffer_pool[0], m_buffer_pool[1]);
+    NRF_LOG_INFO("%d, %d, %i, " NRF_LOG_FLOAT_MARKER, m_buffer_pool[0], m_buffer_pool[1],rotation_count,NRF_LOG_FLOAT(temp_angle));
     NRF_LOG_FLUSH();
 }
+
+// void calculate_angle(void)
+// {
+//     double temp_angle = angle(m_buffer_pool[0], m_buffer_pool[1]);
+// }
