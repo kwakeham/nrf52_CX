@@ -118,24 +118,24 @@ int main(void)
     // ret_code_t ret_code = nrf_pwr_mgmt_init();
     // APP_ERROR_CHECK(ret_code);
 
-    printf("\r\nHellow.\r\n");
+    NRF_LOG_INFO("\r\nHellow.\r\n");
     // printf("Initialize the drv8801\r\n");
     drv8801_init();
     // printf("initialized the drv8801, sending sequence\r\n");
-    drv8801_test();
-    // printf("wait5\r\n");
+    // drv8801_test();
+    // NRF_LOG_INFO("wait5\r\n");
     // nrf_delay_ms(5000);
-    // printf("test2\r\n");
+    // NRF_LOG_INFO("test2\r\n");
     // drv8801_test2();
-    // printf("done\r\n");
+    // NRF_LOG_INFO("done\r\n");fffff
     // nrf_delay_ms(8000);
-    // printf("Drivetest!!!\r\n");
+    // NRF_LOG_INFO("Drivetest!!!\r\n");
     // drv8801_drive(800);
     // nrf_delay_ms(8000);
-    // printf("Drivetest!!!\r\n");
+    // NRF_LOG_INFO("Drivetest!!!\r\n");
     // drv8801_drive(-200);
-    // printf("Drivetest!!!\r\n");
-    // nrf_delay_ms(1000);
+    // NRF_LOG_INFO("Drivetest!!!\r\n");
+    // nrf_delay_ms(1000);h
     // drv8801_drive(-800);
     // nrf_delay_ms(1000);
     // drv8801_drive(300);

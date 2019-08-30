@@ -12,9 +12,12 @@
 #include "nrf_log_ctrl.h"
 
 #define SAMPLES_IN_BUFFER 1
+#define count_offset 2350 //3.3v
+// #define offset 1980 //3 volts ish, maybe 2.9, DK
 static nrf_saadc_value_t     m_buffer_pool[2];
 static uint8_t rotation_count = 0;
 static double angle_old;
+
 // static nrf_saadc_value_t     m_buffer_pool_cos;
 // static nrf_saadc_Valu
 // static uint32_t              m_adc_evt_counter;
@@ -95,10 +98,10 @@ void mpos_init(void)
     err_code = nrfx_saadc_init(&saadc_config, saadc_callback);
     APP_ERROR_CHECK(err_code);
 
-    nrf_saadc_channel_config_t channel_config_sin = NRFX_SAADC_DEFAULT_CHANNEL_CONFIG_SE(NRF_SAADC_INPUT_AIN1);
+    nrf_saadc_channel_config_t channel_config_sin = NRFX_SAADC_DEFAULT_CHANNEL_CONFIG_SE(NRF_SAADC_INPUT_AIN4); //Real = Ain4
     channel_config_sin.gain = NRF_SAADC_GAIN1_5; // this is measured against either vdd/4 or vcore = 0.6v.
 
-    nrf_saadc_channel_config_t channel_config_cos = NRFX_SAADC_DEFAULT_CHANNEL_CONFIG_SE(NRF_SAADC_INPUT_AIN2);
+    nrf_saadc_channel_config_t channel_config_cos = NRFX_SAADC_DEFAULT_CHANNEL_CONFIG_SE(NRF_SAADC_INPUT_AIN5); //Real = Ain5
     channel_config_cos.gain = NRF_SAADC_GAIN1_5; // this is measured against either vdd/4 or vcore = 0.6v.
 
     nrfx_saadc_channel_init(0, &channel_config_sin);
@@ -112,6 +115,10 @@ void mpos_init(void)
 
     err_code = nrfx_saadc_buffer_convert(&m_buffer_pool[1], 1);
     APP_ERROR_CHECK(err_code);
+
+    nrf_gpio_cfg_output(S_HALL_EN);
+
+    nrf_gpio_pin_clear(S_HALL_EN);
 
 
     // err_code = nrfx_saadc_buffer_convert(&m_buffer_pool_cos, 1);
@@ -151,7 +158,7 @@ void mpos_test_convert_event_activate(void)
 double angle(int16_t hall_0, int16_t hall_1)
 {
     double rotation_angle;
-    rotation_angle = (atan2((double)(hall_0-1980),(double)(hall_1-1980))*180/3.14159265359)+180 ;
+    rotation_angle = (atan2((double)(hall_0-count_offset),(double)(hall_1-count_offset))*180/3.14159265359)+180 ;
     if (angle_old > rotation_angle)
     {
         if ((angle_old- rotation_angle) > 180.0)

@@ -48,7 +48,7 @@ extern "C" {
 
 // LEDs definitions for CX 1.0
 
-#define DKTEST
+//#define DKTEST
 
 #ifndef DKTEST // REAL
 

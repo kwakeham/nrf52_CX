@@ -12,6 +12,7 @@
         "nrfx_glue.h": "c",
         "arm_math.h": "c",
         "nrf_mtx.h": "c",
-        "sdk_common.h": "c"
+        "sdk_common.h": "c",
+        "cx.h": "c"
     }
 }
